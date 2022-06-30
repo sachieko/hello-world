@@ -1,4 +1,4 @@
 # hello-world
 
-I am creating a github to store previous code because relying on old hard drives is a nuisance.
-I am currently practicing SQL with MySQL and starting projects in SQL because most databases use it currently.
+I have updated this document as a little extra 'about me' as my github is starting to serve a new purpose.
+I am interested in a lot of various topics, and am willing to work and learn with projects related to: data science, web development, database management, statistics, and Japanese language or culture. Finding new problems to try and solve will always interest me.
